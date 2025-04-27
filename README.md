@@ -4,13 +4,7 @@ It fetches real-time weather data from the OpenWeather API.
 Users can search for any city and view live weather details like temperature, humidity, and conditions.
 The app also features dynamic animations that change based on the time of day (day/night) and weather type (sunny, rainy, etc.) to give a more interactive experience.
 
-
-
-
-
-
-
-
+![Preview Image](WeatherAppInterface.png)
 
 
 
