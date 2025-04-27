@@ -1,3 +1,20 @@
+# Weather Forecast Application
+This is a responsive weather forecasting web application built using React and Bootstrap.
+It fetches real-time weather data from the OpenWeather API.
+Users can search for any city and view live weather details like temperature, humidity, and conditions.
+The app also features dynamic animations that change based on the time of day (day/night) and weather type (sunny, rainy, etc.) to give a more interactive experience.
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
